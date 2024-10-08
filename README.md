@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 My recent portfolio [https://transcendent-cendol-17190a.netlify.app/](https://transcendent-cendol-17190a.netlify.app/)
+- 👨‍💻 My recent portfolio [https://bharatjawa.netlify.app/](https://bharatjawa.netlify.app/)
 - I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 📫 How to reach me **jawabharat05@gmail.com**
 -  Software developer
