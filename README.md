@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20full-stack%20developer;Student;Programmer;Always%20learning%20new%20things&center=true&width=440&height=45&color=B75DF7FF&vCenter=true&size=22"></a>
 </p>
-<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
+<img align="right" alt="Coding" width="400"   src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatjawa2&label=Profile%20views&color=0e75b6&style=flat" alt="bharatjawa2" /> </p>
 
