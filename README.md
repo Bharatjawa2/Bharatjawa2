@@ -9,10 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 Webiste : [https://bharatjawa.netlify.app/](https://bharatjawa.netlify.app/)
-- I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **jawabharat05@gmail.com**
--  Software developer
+- I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
+- Software developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
