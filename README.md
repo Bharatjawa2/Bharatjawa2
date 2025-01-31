@@ -66,5 +66,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatjawa2&show_icons=true&locale=en" alt="bharatjawa2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatjawa2&" alt="bharatjawa2" /></p>
-
-<img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
