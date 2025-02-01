@@ -15,7 +15,6 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **MERN Projects & AI-based applications**
 - 🎯 2024 Goals: **Contribute more to Open Source projects**
-- 🌱 Currently exploring **Next.js, Docker, and Kubernetes**
 - 💻 Portfolio: [bharatjawa.netlify.app](https://bharatjawa.netlify.app/)
 - 📧 How to reach me: **jawabharat05@gmail.com**
 - 🎓 Pursuing **B.Tech CSE From Lovely Professional University**
@@ -96,7 +95,6 @@
 ## 🎯 Latest Projects:
 - 🔥 **Imagify** – A text-to-image generator using AI & Razorpay integration  
 - 💼 **HireVerse** – A daily work template generator  
-- 📊 **CryptoRank** – A MERN app to track cryptocurrency rankings  
 - 🛒 **JawaShop** – A React e-commerce site for groceries  
 
 ---
