@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Passionate%20Full-Stack%20Developer;Student%20|%20Programmer;Always%20Learning%20New%20Things&center=true&width=500&height=50&color=B75DF7&vCenter=true&size=22">
   </a>
@@ -18,7 +18,6 @@
 
 - 🔭 I’m currently working on **MERN Projects & AI-based applications**  
 - 🎯 2024 Goals: **Contribute more to Open Source projects**  
-- 🌱 Currently exploring **Next.js, Docker, and Kubernetes**  
 - 💻 Portfolio: [bharatjawa.netlify.app](https://bharatjawa.netlify.app/)  
 - 📧 How to reach me: **jawabharat05@gmail.com**  
 - 🎓 Pursuing **B.Tech CSE From Lovely Professional University**  
@@ -79,8 +78,7 @@
 ## 🚀 Latest Projects:
 
 🔹 **Imagify** – A text-to-image generator using AI & Razorpay integration  
-🔹 **HireVerse** – A daily work template generator  
-🔹 **CryptoRank** – A MERN app to track cryptocurrency rankings  
+🔹 **HireVerse** – A daily work template generator   
 🔹 **JawaShop** – A React e-commerce site for groceries  
 
 ---
