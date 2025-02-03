@@ -62,9 +62,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatjawa2&theme=radical&hide_border=true" alt="Bharat Streak Stats"/>
-</p>
+![Bharat Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bharatjawa2&theme=radical&hide_border=true)
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatjawa2&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
