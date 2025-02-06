@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatjawa2&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bharatjawa2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p>
