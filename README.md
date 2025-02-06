@@ -62,7 +62,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-![Bharat Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bharatjawa2&theme=radical&hide_border=true)
+https://github-readme-streak-stats.herokuapp.com/?user=Bharatjawa2&theme=radical&hide_border=true
 
 
 <p>
