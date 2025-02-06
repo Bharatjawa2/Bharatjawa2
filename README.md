@@ -62,13 +62,15 @@
 </p>
 
 ## 📊 GitHub Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=Bharatjawa2&theme=radical&hide_border=true
-
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatjawa2&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatjawa2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatjawa2&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bharatjawa2&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharatjawa2&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
