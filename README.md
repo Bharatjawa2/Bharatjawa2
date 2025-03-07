@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+    <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/laravel.svg" alt="Express.js" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
