@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatjawa2&label=Profile%20views&color=0e75b6&style=flat" alt="bharatjawa2" /> </p>
 
-- 👨‍💻 Website : [https://bharatjawa.netlify.app/](https://bharatjawa.netlify.app/)
+- 👨‍💻 Website : [https://port-folio-omega-three.vercel.app/](https://port-folio-omega-three.vercel.app/)
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **jawabharat05@gmail.com**
 - 🎓 I’m currently pursuing **B.Tech CSE From Lovely Professional University**
